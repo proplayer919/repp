@@ -9,7 +9,7 @@ def main():
     print("This program is for educational purposes only.")
     print("It is not intended to be used for malicious purposes.")
     print("-----------------------------------------------")
-    print("Made by: Team 0x6861636B at arclabs")
+    print("Made by: proplayer919")
     print("Github: github.com/proplayer/repp")
     print("Version: 1.0.0")
     print("-----------------------------------------------")
